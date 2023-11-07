@@ -1,0 +1,13 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    padding: auto;
+}
+th{
+    text-align: left;
+    background-color: green;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: lightgrey;
+}
